@@ -1,7 +1,7 @@
-#odd {
-    font-family:Verdana,"dejavu sans", sans-serif;
-}
 
-#odd {
-    background-color: lightsalmon;
+.odd-number {
+
+    background-color:lightsalmon;
+    font-family: verdana "dejavu sans" sans-serif;
+
 }
