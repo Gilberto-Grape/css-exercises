@@ -1,7 +1,22 @@
-#odd {
-    font-family:Verdana,"dejavu sans", sans-serif;
+
+.odd-number {
+
+    background-color:rgb(250, 175, 175);
+    font-family: verdana "dejavu sans" sans-serif;
+
 }
 
-#odd {
-    background-color: lightsalmon;
+#blue {
+    color: blue;
+    font-size: 38px;
+}
+
+.three {
+    font-size: 24px;
+}
+
+#green {
+    background-color:lightgreen;
+    font-size:24px;
+    font-weight: bold;
 }
